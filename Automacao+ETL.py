@@ -107,12 +107,6 @@ def extract_data(row):
         }
 
 
-# In[950]:
-
-
-print('oi')
-
-
 # In[951]:
 
 
